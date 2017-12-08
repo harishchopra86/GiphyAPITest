@@ -104,7 +104,6 @@
 				682205091FD8F8C600DC453B /* Supporting Files */,
 				682204FE1FD8EC5D00DC453B /* Services */,
 				682204FD1FD8EBA300DC453B /* Utilities */,
-				682204FC1FD8EB9A00DC453B /* ViewModel */,
 				682204FB1FD8E9C100DC453B /* View */,
 				682204FA1FD8E9BC00DC453B /* Model */,
 				682204F71FD8E98500DC453B /* ViewControllers */,
@@ -143,13 +142,6 @@
 				689B7A621FDA1BFD002F3DE7 /* CustomButton.swift */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		682204FC1FD8EB9A00DC453B /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		682204FD1FD8EBA300DC453B /* Utilities */ = {
